@@ -1,1 +1,1 @@
-https://Dokuturutake/TickTalkAnswers_Page/
+https://Dokuturutake.github.io/TickTalkAnswers_Page/
